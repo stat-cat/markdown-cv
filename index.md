@@ -33,11 +33,7 @@ Department of Biostatistics & Data Science<br/>
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). \* = student as lead author, &dagger; = shared first authorship.*
-
-### Books
-
-H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2023). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/).
+*Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=hBhrbzQAAAAJ&hl=en).*
 
 <!--
 ### Journal articles, in preparation
