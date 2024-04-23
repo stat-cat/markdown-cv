@@ -36,3 +36,5 @@ Department of Biostatistics & Data Science<br/>
 
 ### Journal articles
 
+Bantis, Leonidas E, Kate J Young, John V Tsimikas, Brian R Mosier, Byron Gajewski, Sharon Yeatts, Renee L Martin, et al. “Statistical Assessment of the Prognostic and the Predictive Value of Biomarkers-A Biomarker Assessment Framework with Applications to Traumatic Brain Injury Biomarker Studies.” *Research Methods in Medicine & Health*
+
