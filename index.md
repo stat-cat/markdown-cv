@@ -29,6 +29,9 @@ Department of Biostatistics & Data Science<br/>
 `2023-present`
 **Research Assistant Professor**, *Department of Biostatistics & Data Science, University of Kansas Medical Center*, Kansas City, KS, USA.
 
+`2020-2023`
+**Statistician II**, *Department of Biostatistics & Data Science, University of Kansas Medical Center*, Kansas City, KS, USA.
+
 ## Publications
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=hBhrbzQAAAAJ&hl=en).*
