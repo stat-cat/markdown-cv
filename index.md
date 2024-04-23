@@ -19,7 +19,7 @@ Department of Biostatistics & Data Science<br/>
 ## Education
 
 `2020-2023`
-**Ph.D., Biostatistics**, *University of Kansas Medical Center*, Kansas City, KS
+**Ph.D., Biostatistics**, *University of Kansas Medical Center*, Kansas City, KS, USA.
 
 `2018-2020`
 **M.S., Biostatistics**, *University of Kansas Medical Center*, Kansas City, KS, USA.
