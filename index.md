@@ -24,6 +24,9 @@ Department of Biostatistics & Data Science<br/>
 `2018-2020`
 **M.S., Biostatistics**, *University of Kansas Medical Center*, Kansas City, KS, USA.
 
+`2008-2012`
+**B.A., Mathematics and Economics**, *University of Missouri - Kansas City*, Kansas City, MO, USA.
+
 ## Experience
 
 `2023-present`
