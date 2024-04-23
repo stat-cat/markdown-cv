@@ -32,9 +32,6 @@ Department of Biostatistics & Data Science<br/>
 `2020-2023`
 **Statistician II**, *Department of Biostatistics & Data Science, University of Kansas Medical Center*, Kansas City, KS, USA.
 
-`2018-202`
-Fake Work History
-
 
 ## Publications
 
