@@ -19,7 +19,7 @@ Department of Biostatistics & Data Science<br/>
 ## Education
 
 `2020-2023`
-**Ph.D., Biostatistics**, *University of Kansas Medical Center*, Kansas City, KS, USA.
+**Ph.D., Biostatistics**, *University of Kansas Medical Center*, Kansas City, KS
 
 `2018-2020`
 **M.S., Biostatistics**, *University of Kansas Medical Center*, Kansas City, KS, USA.
@@ -41,4 +41,6 @@ Department of Biostatistics & Data Science<br/>
 ### Journal articles
 
 Bantis, Leonidas E, Kate J Young, John V Tsimikas, Brian R Mosier, Byron Gajewski, Sharon Yeatts, Renee L Martin, et al. “Statistical Assessment of the Prognostic and the Predictive Value of Biomarkers-A Biomarker Assessment Framework with Applications to Traumatic Brain Injury Biomarker Studies.” *Research Methods in Medicine & Health*
+
+Dehbozorgi, Arshan, Badr Jandali, Robert Turner, Aaron Rohr, Brandon Custer, Kate Young, Carissa Walter, et al. “Safety of Non-Cuffed Tunneled Central Venous Catheters in Adults with Cystic Fibrosis.” *Respiratory Medicine and Research*, November 2023, 101073. https://doi.org/10.1016/j.resmer.2023.101073.
 
