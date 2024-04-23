@@ -47,3 +47,5 @@ Bantis, Leonidas E, Kate J Young, John V Tsimikas, Brian R Mosier, Byron Gajewsk
 
 Dehbozorgi, Arshan, Badr Jandali, Robert Turner, Aaron Rohr, Brandon Custer, Kate Young, Carissa Walter, et al. “Safety of Non-Cuffed Tunneled Central Venous Catheters in Adults with Cystic Fibrosis.” *Respiratory Medicine and Research*, November 2023, 101073. https://doi.org/10.1016/j.resmer.2023.101073.
 
+Frager, Luke, Dennis Heaton, Christopher M. Walker, Kate Young, and Brian M. Everist. “Incidental Posterior Rib Hyperostosis on Chest CT: Incidence and Etiology.” Skeletal Radiology 51, no. 6 (June 2022): 1173–78. https://doi.org/10.1007/s00256-021-03933-2.
+
